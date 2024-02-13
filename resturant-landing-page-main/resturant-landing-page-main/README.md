@@ -32,28 +32,6 @@ git clone https://github.com/httpsadnankhan/resturant-landing-page.git
 
 4. Save your changes.
 
-## Usage
 
-After customization, simply deploy the landing page to your web hosting provider or use platforms like GitHub Pages for easy hosting.
 
-## Customization
-
-### Styles
-
-The CSS styles are organized into separate files for easy customization. Adjust colors, fonts, and other styles to match your restaurant's branding in the `styles` folder.
-
-### Images
-
-Replace the placeholder images in the `images` folder with high-quality photos of your restaurant, menu items, and any other visuals you'd like to showcase.
-
-### Content
-
-Update the HTML files in the root directory to reflect your restaurant's information, menu, and any other details you want to share.
-
-## Contributing
-
-If you'd like to contribute to this project, please follow the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## Preview 
-![resturant-preveiw](https://github.com/httpsadnankhan/resturant-landing-page/assets/120323286/06f2d8c6-d960-41af-ad85-52eddbe1bb0f)
 
