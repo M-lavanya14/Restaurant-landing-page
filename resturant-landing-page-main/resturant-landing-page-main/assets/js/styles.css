@@ -1,0 +1,33 @@
+/* Countdown Section Styles */
+.countdown {
+    background-size: cover;
+    background-position: center;
+    padding: 150px 0; /* Adjust padding for larger size */
+    text-align: center;
+    font-family: "General Sans", sans-serif; /* Add General Sans font */
+}
+
+.countdown-overlay {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent overlay */
+    padding: 40px;
+    border-radius: 20px;
+}
+
+#timer {
+    font-size: 100px; /* Increase font size for "Time Left" */
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.countdown-text {
+    color: #fff;
+}
+
+.countdown-text h2 {
+    font-size: 98px; /* Increase font size for headline */
+    margin-bottom: 20px;
+}
+
+.countdown-text p {
+    font-size: 24px; /* Increase font size for paragraph */
+}
